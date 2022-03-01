@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        self.title = "뷰컨트롤러"
+        self.view.backgroundColor = .orange
     }
 
 
